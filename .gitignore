@@ -25,3 +25,7 @@ tools/
 contests_db*.sql
 review-report.html
 lenh_chay_chtrinh.txt
+
+# Báo cáo cá nhân và file tạm của Word
+*.docx
+~$*
