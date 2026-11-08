@@ -39,7 +39,6 @@ coverage/
 # Temporary files
 tmp/
 temp/
-src/modules/user/user.controller.ts
 
 # Uploads directories except uploads/about
 uploads/**/*
